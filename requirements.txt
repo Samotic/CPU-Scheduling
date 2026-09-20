@@ -1,0 +1,2 @@
+# Optional: enables comparison graphs for --algo ALL.
+matplotlib>=3.7,<4
